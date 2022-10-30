@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
-import KegiatanHarian from "./pages/Dashboard";
+import KegiatanHarian from "./pages/KegiatanHarian";
 import Navbar from "./component/Navbar";
 import Sidebar from "./component/Sidebar";
 import SidebarMenu from "./component/SidebarMenu";

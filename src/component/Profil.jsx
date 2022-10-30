@@ -2,7 +2,7 @@ import React from "react";
 
 function Profil() {
   return (
-    <div >
+    <div className="w-full flex flex-col items-center">
       <div className="w-[100px] h-[100px] rounded-full bg-[#D9D9D9] flex justify-center items-center mt-10 mb-6">
         Foto
       </div>
